@@ -1,0 +1,26 @@
+{
+  "name": "phonepe-pg",
+  "version": "1.0.0",
+  "description": "Test App for PhonePe payment gateway integration",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piyush0506/test-flask.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piyush0506/test-flask/issues"
+  },
+  "homepage": "https://github.com/piyush0506/test-flask#readme",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.21.1"
+  }
+}
